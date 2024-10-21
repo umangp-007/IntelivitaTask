@@ -1,0 +1,27 @@
+.search-bar-container {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .search-input {
+    padding: 10px;
+    font-size: 1rem;
+    margin-bottom: 0% !important; 
+  }
+  
+  .input-group-text {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .input-group-text i {
+    font-size: 1.25rem;
+  }
+  
+  .input-group-text:hover {
+    background-color: #0056b3;
+  }
+  
